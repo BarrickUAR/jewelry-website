@@ -3,6 +3,7 @@ import { Karla, Cormorant_SC } from "next/font/google";
 import "./globals.css";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import BackToTop from "./components/BackToTop";
 
 // Fonts
 const karla = Karla({
@@ -24,10 +25,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${karla.variable} ${cormorantSC.variable}`}>
-      <body className="font-sans">
+      <body className="font-sans bg-white">
         <Header />
         {children}
         <Footer />
+        <BackToTop />
       </body>
     </html>
   );
