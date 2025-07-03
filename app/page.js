@@ -222,7 +222,7 @@ export default function Home() {
             <p className="text-base md:text-lg text-white mb-8">
               We are passionate creators dedicated to delivering beautifully crafted digital experiences. Our focus is on quality, innovation, and meaningful results.
             </p>
-            <button className="inline-block border border-white text-white px-10 py-3 text-sm sm:text-base font-medium  hover:bg-[#915ad7] transition-colors duration-300 cursor-pointer">
+            <button className="inline-block border mb-14 border-white text-white px-10 py-3 text-sm sm:text-base font-medium  hover:bg-[#915ad7] transition-colors duration-300 cursor-pointer">
               About Us
             </button>
           </div>

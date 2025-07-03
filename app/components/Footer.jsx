@@ -82,7 +82,7 @@ const Footer = () => {
             </div>
 
             <div className="border-t border-gray-300 mt-10 pt-6 text-sm sm:text-base flex flex-col md:flex-row justify-between items-center gap-4 ">
-                <span className="text-gray-600">© APOLLONIAN, LLC</span>
+                <span className="text-gray-600">© ED JEWELRY, LLC</span>
                 <div className="flex flex-wrap justify-center gap-3 text-gray-600">
                     <a href="#">PRIVACY POLICY</a>
                     <span>•</span>
