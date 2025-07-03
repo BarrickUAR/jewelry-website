@@ -4,6 +4,7 @@ import "./globals.css";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import BackToTop from "./components/BackToTop";
+import Attribition from "./components/Attribition";
 
 // Fonts
 const karla = Karla({
@@ -30,6 +31,7 @@ export default function RootLayout({ children }) {
         {children}
         <Footer />
         <BackToTop />
+        <Attribition />
       </body>
     </html>
   );
