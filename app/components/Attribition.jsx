@@ -10,7 +10,7 @@ const Attribition = () => {
                 <div className="flex items-center justify-center text-white border-t border-gray-200 gap-4 text-center text-sm">
                     Designed with ❤️ by{' '}
                     <a
-                        href="https://devpiksel.com"
+                        href="https://devpixel.com.tr"
                         className="hover:underline font-semibold text-clifford"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -26,7 +26,7 @@ const Attribition = () => {
                 </div>
                 <div className="flex items-center justify-center gap-4 mt-2">
                     <a
-                        href="https://devpiksel.com"
+                        href="https://devpixel.com.tr"
                         className="text-white hover:text-green-500 transition duration-300"
                         target="_blank"
                         rel="noopener noreferrer"
